@@ -1,5 +1,8 @@
 # distilBERT_BiLSTM
 
+NOTE: You should have the glove embeddings file and also load the datasets before you run the student model code (BiLSTM).
+
+
 Firstly, we'll need to load the glue benchmark datasets.
 We have the corresponding code for each dataset for doing this in the folder 'load'.
 
